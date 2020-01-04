@@ -15,6 +15,8 @@
 
 import xml.dom.minidom
 
+aaaaaaaaaaaaa
+
 #打开
 dom=xml.dom.minidom.parse("d://xml1.xml")
 #得到文档元素对象
